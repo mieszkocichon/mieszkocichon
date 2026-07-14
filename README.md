@@ -1,47 +1,72 @@
-### Hi there! 👋
+<div align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mieszkocichon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%mieszkocichon&screen_name=mieszkocichon)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Mieszko%20Cicho%C5%84&fontColor=e6edf3&fontSize=42&fontAlignY=50&desc=Principal%20Engineer%20%C2%B7%20Java%20%C2%B7%20Cloud%20%C2%B7%20Distributed%20Systems&descAlignY=75&descSize=16" alt="Mieszko Cichoń — Principal Engineer" />
 
-## I'm a Full Stack Developer =)
+<em>I design systems that survive failure — and study how they break.</em>
 
-### Connect with me:
+<br/><br/>
 
-[<img align="left" alt="mieszkocichon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mieszkocichon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Email](https://img.shields.io/badge/Email-mieszkocichon%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=e6edf3)](mailto:mieszkocichon@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/mieszkocichon?style=flat-square&color=0d1117&logo=github&logoColor=e6edf3&label=followers)](https://github.com/mieszkocichon?tab=followers)
 
-<br />
-
-### Languages and Tools:
-
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][google]
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][google]
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][google]
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][google]
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][google]
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][google]
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][google]
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][google]
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][google]
-[<img align="left" width="30px" src="https://tse3.mm.bing.net/th?id=OIP.KqsJnpF3kPe4W1Nlw8QtsAHaHa&pid=Api&P=0&w=300&h=300" />][google]
-[<img align="left" width="30px" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png" />][google]
-[<img align="left" width="26px" src="https://pngimage.net/wp-content/uploads/2018/06/symfony-logo-png-3.png" />][google]
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][google]
-[<img align="left" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />][google]
-[<img align="left" width="30px" src="https://banner2.cleanpng.com/20180603/efw/kisspng-intellij-idea-integrated-development-environment-j-5b14b07dca5431.8900998115280825578288.jpg" />][google]
-
-<br />
-<br />
+</div>
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
+## About
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mieszkocichon&layout=compact)](https://github.com/mieszkocichon)
+Principal Engineer focused on the JVM and the cloud. I care about the parts of software
+that don't show up in demos: **domain boundaries, failure modes, and the cost of change**.
 
-</details>
+- 🧭 Architecture: Domain-Driven Design, hexagonal (ports & adapters), CQRS + Event Sourcing
+- 🌪️ Reliability: chaos engineering, autonomous resilience in microservices
+- 🛡️ Currently researching: **security of agentic LLM systems**
+- ✍️ Building a portfolio & engineering blog — long-form writing on architecture and resilience
 
-[twitter]: https://twitter.com/mieszkocichon
-[linkedin]: https://linkedin.com/in/mieszkocichon
-[google]: https://www.google.pl
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+## Selected work
+
+| Repository | What it explores |
+|---|---|
+| [securing_llm_agentic](https://github.com/mieszkocichon/securing_llm_agentic) | Threat models and defenses for LLM-based agent systems |
+| [chaos-engineering-study](https://github.com/mieszkocichon/chaos-engineering-study) | Injecting failure on purpose to learn how systems actually behave |
+| [cqrs-es](https://github.com/mieszkocichon/cqrs-es) | Command/query separation with event sourcing on the JVM |
+| [ports-adapters](https://github.com/mieszkocichon/ports-adapters) | Hexagonal architecture — keeping the domain independent of frameworks |
+| [notification_queue](https://github.com/mieszkocichon/notification_queue) | Asynchronous messaging patterns in Java |
+| [cqrs_typescript](https://github.com/mieszkocichon/cqrs_typescript) | The same architectural ideas, translated to the TypeScript ecosystem |
+
+## Toolbox
+
+**Core**
+
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=e6edf3)
+![Spring](https://img.shields.io/badge/Spring-0d1117?style=flat-square&logo=spring&logoColor=6db33f)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=e6edf3)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=e6edf3)
+
+**Platform**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326ce5)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=e6edf3)
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=e6edf3)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1)
+
+**Practice**
+
+`DDD` · `CQRS / Event Sourcing` · `Event-Driven Architecture` · `Chaos Engineering` · `Hexagonal Architecture`
+
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mieszkocichon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mieszkocichon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>„Hope is not a strategy." — traditional SRE saying</sub>
+</div>
